@@ -1,0 +1,10 @@
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\obj\Debug\CityDataCollector.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\obj\Debug\CityDataCollector.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\obj\Debug\CityDataCollector.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\obj\Debug\CityDataCollector.frmCityData.resources
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\bin\Debug\CityDataCollector.exe.config
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\bin\Debug\CityDataCollector.exe
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\bin\Debug\CityDataCollector.pdb
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\obj\Debug\CityDataCollector.Properties.Resources.resources
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\obj\Debug\CityDataCollector.exe
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\CityDataCollector\Helmberger\obj\Debug\CityDataCollector.pdb

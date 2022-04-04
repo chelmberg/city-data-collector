@@ -1,0 +1,22 @@
+S:\Helmberger\Helmberger\bin\Debug\Helmberger.exe.config
+S:\Helmberger\Helmberger\bin\Debug\Helmberger.exe
+S:\Helmberger\Helmberger\bin\Debug\Helmberger.pdb
+S:\Helmberger\Helmberger\obj\Debug\Helmberger.csprojResolveAssemblyReference.cache
+S:\Helmberger\Helmberger\obj\Debug\Helmberger.Form1.resources
+S:\Helmberger\Helmberger\obj\Debug\Helmberger.Properties.Resources.resources
+S:\Helmberger\Helmberger\obj\Debug\Helmberger.csproj.GenerateResource.Cache
+S:\Helmberger\Helmberger\obj\Debug\Helmberger.exe
+S:\Helmberger\Helmberger\obj\Debug\Helmberger.pdb
+F:\5AHWII\PRPE\Test 1 1HJ\Helmberger\bin\Debug\Helmberger.exe.config
+F:\5AHWII\PRPE\Test 1 1HJ\Helmberger\obj\Debug\Helmberger.exe
+F:\5AHWII\PRPE\Test 1 1HJ\Helmberger\obj\Debug\Helmberger.pdb
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\bin\Debug\Helmberger.exe.config
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\bin\Debug\Helmberger.exe
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\bin\Debug\Helmberger.pdb
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\obj\Debug\Helmberger.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\obj\Debug\Helmberger.Form1.resources
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\obj\Debug\Helmberger.Properties.Resources.resources
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\obj\Debug\Helmberger.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\obj\Debug\Helmberger.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\obj\Debug\Helmberger.exe
+C:\Users\chris\Desktop\Data Laufwerk\HTL\5AHWII\PRPE\Test 1 1HJ CityData\Helmberger\obj\Debug\Helmberger.pdb
